@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.title {
+    font-size: 100px;
+    color: white;
+    background-color: blue;
+    font-family: monospace;
+}
+
+.sub_title {
+    font-size: 50px;
+    color: blue;
+    background-color: white;
+    font-family: monospace;
+}
+
+h2 {
+    color: blue;
+}
+
+ul {
+    background-color:aqua;
+}
